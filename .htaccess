@@ -1,0 +1,43 @@
+# Force HTTPS
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Security Headers
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set X-XSS-Protection "1; mode=block"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# Disable directory listing
+Options -Indexes
+
+# Protect sensitive files
+<FilesMatch "^\.">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+<FilesMatch "(config\.php|\.htaccess|\.env)">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+# GZIP Compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+# Add JSON MIME type
+<IfModule mod_mime.c>
+  AddType application/json .json
+  AddCharset UTF-8 .json
+</IfModule>
+
+# Ensure manifest.json is served correctly
+<Files "manifest.json">
+  Header set Content-Type "application/json; charset=utf-8"
+  Header set Access-Control-Allow-Origin "*"
+</Files>

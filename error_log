@@ -1,0 +1,59 @@
+[15-Mar-2026 01:32:16 UTC] PHP Parse error:  syntax error, unexpected '06.6' (T_DNUMBER) in /home/majedlog/public_html/ws/config.php on line 40
+[29-Mar-2026 16:48:18 UTC] PHP Notice:  Undefined variable: lang in /home/majedlog/public_html/components/header.php on line 5
+[29-Mar-2026 16:48:18 UTC] PHP Notice:  Undefined variable: current_page in /home/majedlog/public_html/components/header.php on line 10
+[29-Mar-2026 16:48:18 UTC] PHP Notice:  Undefined variable: lang in /home/majedlog/public_html/components/header.php on line 17
+[29-Mar-2026 16:49:15 UTC] PHP Notice:  Undefined variable: lang in /home/majedlog/public_html/components/header.php on line 5
+[29-Mar-2026 16:49:15 UTC] PHP Notice:  Undefined variable: current_page in /home/majedlog/public_html/components/header.php on line 10
+[29-Mar-2026 16:49:15 UTC] PHP Notice:  Undefined variable: lang in /home/majedlog/public_html/components/header.php on line 17
+[29-Mar-2026 16:49:25 UTC] PHP Notice:  Undefined variable: lang in /home/majedlog/public_html/components/header.php on line 5
+[29-Mar-2026 16:49:25 UTC] PHP Notice:  Undefined variable: current_page in /home/majedlog/public_html/components/header.php on line 10
+[29-Mar-2026 16:49:25 UTC] PHP Notice:  Undefined variable: lang in /home/majedlog/public_html/components/header.php on line 17
+[29-Mar-2026 17:13:47 UTC] PHP Warning:  include(contact.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:13:47 UTC] PHP Warning:  include(contact.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:13:47 UTC] PHP Warning:  include(): Failed opening 'contact.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:14:17 UTC] PHP Warning:  include(contact.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:14:17 UTC] PHP Warning:  include(contact.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:14:17 UTC] PHP Warning:  include(): Failed opening 'contact.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:16:48 UTC] PHP Warning:  include(contact.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:16:48 UTC] PHP Warning:  include(contact.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:16:48 UTC] PHP Warning:  include(): Failed opening 'contact.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:16:55 UTC] PHP Warning:  include(contact.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:16:55 UTC] PHP Warning:  include(contact.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:16:55 UTC] PHP Warning:  include(): Failed opening 'contact.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:17:55 UTC] PHP Warning:  include(contact.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:17:55 UTC] PHP Warning:  include(contact.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:17:55 UTC] PHP Warning:  include(): Failed opening 'contact.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 27
+[29-Mar-2026 17:21:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/majedlog/public_html/components/sections/contacts.php on line 2
+[29-Mar-2026 17:22:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/majedlog/public_html/components/sections/contacts.php on line 2
+[29-Mar-2026 17:23:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/majedlog/public_html/components/sections/contacts.php on line 2
+[29-Mar-2026 17:24:33 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:24:33 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:24:33 UTC] PHP Warning:  include(): Failed opening 'components/sections/contacts.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:24:57 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:24:57 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:24:57 UTC] PHP Warning:  include(): Failed opening 'components/sections/contacts.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:25:42 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:25:42 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:25:42 UTC] PHP Warning:  include(): Failed opening 'components/sections/contacts.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:26:42 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:26:42 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:26:42 UTC] PHP Warning:  include(): Failed opening 'components/sections/contacts.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:29:59 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:29:59 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:29:59 UTC] PHP Warning:  include(): Failed opening 'components/sections/contacts.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:30:06 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:30:06 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:30:06 UTC] PHP Warning:  include(): Failed opening 'components/sections/contacts.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:38:54 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:38:54 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:38:54 UTC] PHP Warning:  include(): Failed opening 'components/sections/contacts.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:39:04 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:39:04 UTC] PHP Warning:  include(components/sections/contacts.php): failed to open stream: No such file or directory in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:39:04 UTC] PHP Warning:  include(): Failed opening 'components/sections/contacts.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/index.php on line 28
+[29-Mar-2026 17:41:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/majedlog/public_html/components/sections/contacts.php on line 2
+[29-Mar-2026 17:41:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/majedlog/public_html/components/sections/contacts.php on line 2
+[29-Mar-2026 17:42:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/majedlog/public_html/components/sections/contacts.php on line 2
+[29-Mar-2026 17:42:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/majedlog/public_html/contacts.php on line 4
+[29-Mar-2026 17:43:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/majedlog/public_html/components/sections/contacts.php on line 2
+[29-Mar-2026 17:43:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/majedlog/public_html/components/sections/contacts.php on line 2
+[29-Mar-2026 17:43:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/majedlog/public_html/components/sections/contacts.php on line 2
