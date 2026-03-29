@@ -1,0 +1,20 @@
+[29-Mar-2026 17:23:46 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 60
+[29-Mar-2026 17:23:46 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 60
+[29-Mar-2026 17:23:46 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/components/sections/contacts.php on line 60
+[29-Mar-2026 17:23:46 UTC] PHP Notice:  Undefined variable: site_name in /home/majedlog/public_html/components/sections/contacts.php on line 67
+[29-Mar-2026 17:23:46 UTC] PHP Warning:  include(components/header.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 172
+[29-Mar-2026 17:23:46 UTC] PHP Warning:  include(components/header.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 172
+[29-Mar-2026 17:23:46 UTC] PHP Warning:  include(): Failed opening 'components/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/components/sections/contacts.php on line 172
+[29-Mar-2026 17:23:46 UTC] PHP Warning:  include(components/footer.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 236
+[29-Mar-2026 17:23:46 UTC] PHP Warning:  include(components/footer.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 236
+[29-Mar-2026 17:23:46 UTC] PHP Warning:  include(): Failed opening 'components/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/components/sections/contacts.php on line 236
+[29-Mar-2026 17:41:12 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 60
+[29-Mar-2026 17:41:12 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 60
+[29-Mar-2026 17:41:12 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/components/sections/contacts.php on line 60
+[29-Mar-2026 17:41:12 UTC] PHP Notice:  Undefined variable: site_name in /home/majedlog/public_html/components/sections/contacts.php on line 67
+[29-Mar-2026 17:41:12 UTC] PHP Warning:  include(components/header.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 172
+[29-Mar-2026 17:41:12 UTC] PHP Warning:  include(components/header.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 172
+[29-Mar-2026 17:41:12 UTC] PHP Warning:  include(): Failed opening 'components/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/components/sections/contacts.php on line 172
+[29-Mar-2026 17:41:12 UTC] PHP Warning:  include(components/footer.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 236
+[29-Mar-2026 17:41:12 UTC] PHP Warning:  include(components/footer.php): failed to open stream: No such file or directory in /home/majedlog/public_html/components/sections/contacts.php on line 236
+[29-Mar-2026 17:41:12 UTC] PHP Warning:  include(): Failed opening 'components/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/majedlog/public_html/components/sections/contacts.php on line 236
